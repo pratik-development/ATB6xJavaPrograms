@@ -10,11 +10,13 @@ public class Lab001 {
 
         // exit code 0 -> Code is successfully Run.
 
+ /*       This is Multi ine comment
+                comment*/
 
 
         /**
          * // Multiple Links
-         *  Author - Pramod Dutta
+         *  Author - Pratik Navale
          *  Course Details - ATB6X
          *   adsdadas
          *   dasda

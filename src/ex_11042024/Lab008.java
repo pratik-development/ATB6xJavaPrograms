@@ -6,9 +6,9 @@ public class Lab008 {
 
 
         // Variables - Value for the this can be changed in the program.
-        // name -> pramod
-        // name -> lucky
-        // name -> dutta
+        // name -> Pratik
+        // name -> sam
+        // name -> Navale
 
         //Mother -> [] - sugar ->
         int age = 65;

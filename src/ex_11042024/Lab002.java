@@ -14,13 +14,13 @@ package ex_11042024;
 
 public class Lab002 {
     public static void main(String[] args) {
-        System.out.print("Hello Pramod");
-        System.out.print("Hello Dutta\t");
+        System.out.print("Hello Pratik ");
+        System.out.print("Hello Navale\t");
 
         // print -> in the end I will not add  \n - newline
         // println -> add a new line
 
-        System.out.println("Amit");
+        System.out.println("Rohit");
         System.out.println("Sharma");
     }
 }
