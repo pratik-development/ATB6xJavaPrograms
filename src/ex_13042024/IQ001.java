@@ -1,4 +1,4 @@
-package ex_14042024;
+package ex_13042024;
 
 public class IQ001
 {

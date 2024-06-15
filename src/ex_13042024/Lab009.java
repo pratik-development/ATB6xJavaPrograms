@@ -1,4 +1,4 @@
-package ex_14042024;
+package ex_13042024;
 
 public class Lab009
 {
@@ -20,5 +20,21 @@ public class Lab009
         // non-primitive data type
 
         //String ,Array, Class
+    }
+
+    public static class Lab015
+    {
+        public static void main(String[] args) {
+
+    //        System.out.print("Hi"); // Will not add next line
+    //        System.out.println("Hi"); // Will add next line
+            int age = 98;
+            // %d ->  any integer - byte, short, int or long
+            // %s -> String
+            // %c -> char
+            // %f -> float
+            System.out.printf("Ritesh age is %d",age);
+
+        }
     }
 }
